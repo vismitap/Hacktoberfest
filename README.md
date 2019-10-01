@@ -20,6 +20,6 @@ To Contribute in a proper way so that I can merge the pull request:
 7. Done!
 
 
-#### Happy Hacktoberfest :tada: :fireworks,smiley:
+#### Happy Hacktoberfest :fireworks:
 
 -------------------------------------------------------------------------------------------------
